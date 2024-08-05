@@ -1,0 +1,32 @@
+_repo: The-negro-workers-b-address-delivered-Tuesday-October-30-1923-at-Commonwealth-Casino-135th-St__74184
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Debs, Eugene V. (Eugene Victor)
+    alias: Debs, Eugene Victor
+    birthdate: 1855
+    deathdate: 1926
+    gutenberg_agent_id: '36649'
+    url: http://www.gutenberg.org/2009/agents/36649
+    wikipedia: https://en.wikipedia.org/wiki/Eugene_V._Debs
+description: ''
+gutenberg_issued: '2024-08-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74184'
+language: en
+pgterms:marc904: https://catalog.hathitrust.org/Record/006070195
+pgterms:marc905: 20231030084914debs
+pgterms:marc906: '1923'
+pgterms:marc907: US
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: '  $aNew York :$bThe Emancipation Publishing Company, $c1923.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The negro workers : $b address delivered Tuesday, October 30, 1923, at Commonwealth
+  Casino, 135th Street and Madison Avenue, N.Y.C.'
+url: http://www.gutenberg.org/ebooks/74184
