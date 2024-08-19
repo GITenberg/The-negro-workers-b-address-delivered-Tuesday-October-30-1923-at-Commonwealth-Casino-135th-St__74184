@@ -1,5 +1,8 @@
 _repo: The-negro-workers-b-address-delivered-Tuesday-October-30-1923-at-Commonwealth-Casino-135th-St__74184
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74184-h/images/cover.jpg
 creator:
   author:
     agent_name: Debs, Eugene V. (Eugene Victor)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36649
     wikipedia: https://en.wikipedia.org/wiki/Eugene_V._Debs
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74184#The-negro-workers-b-address-delivered-Tuesday-October-30-1923-at-Commonwealth-Casino-135th-St_
 gutenberg_issued: '2024-08-03'
 gutenberg_type: Text
 identifiers:
